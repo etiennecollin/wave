@@ -14,7 +14,7 @@
 
 ## What Is It
 
-The Wave is a small, reversible keyboard inspired by the [ferris](https://github.com/pierrechevalier83/ferris), the [sweep](https://github.com/davidphilipbarr/Sweep), the [swoop](https://github.com/jimmerricks/swoop) and the [sweep36](https://github.com/sadekbaroudi/sweep36). It aims to solve a few issues I found with the keyboards (see [Features](#features)).
+The Wave is a small, reversible keyboard inspired by the [Ferris](https://github.com/pierrechevalier83/ferris), the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep), the [Swoop](https://github.com/jimmerricks/swoop) and the [Sweep36](https://github.com/sadekbaroudi/sweep36). It aims to solve a few issues I found with the keyboards (see [Features](#features)).
 
 <!-- Insert image of built keyboard -->
 <!-- ![](resources/images/built_wave.png) -->
