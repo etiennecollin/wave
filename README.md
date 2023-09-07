@@ -1,5 +1,15 @@
 # Wave <!-- omit from toc -->
 
+<!-- > ![](resources/images/built_wave.png) <sub>Wave v0.0.1 + MBK Blank Keycaps</sub> -->
+
+<span>
+  <img src="https://img.shields.io/github/last-commit/etiennecollin/wave">
+  <img src="https://img.shields.io/github/v/release/etiennecollin/wave?include_prereleases&color=success">
+  <img src="https://img.shields.io/static/v1?label=license&message=GPL-3.0&color=success">
+</span>
+
+---
+
 - [What Is It](#what-is-it)
 - [Features](#features)
 - [Components List](#components-list)
@@ -15,9 +25,6 @@
 ## What Is It
 
 The Wave is a small, reversible keyboard inspired by the [Ferris](https://github.com/pierrechevalier83/ferris), the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep), the [Swoop](https://github.com/jimmerricks/swoop) and the [Sweep36](https://github.com/sadekbaroudi/sweep36). It aims to solve a few issues I found with the keyboards (see [Features](#features)).
-
-<!-- Insert image of built keyboard -->
-<!-- ![](resources/images/built_wave.png) -->
 
 ## Features
 
