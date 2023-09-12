@@ -3,9 +3,15 @@
 <!-- > ![](resources/images/built_wave.png) <sub>Wave v0.0.1 + MBK Blank Keycaps</sub> -->
 
 <span>
-  <img src="https://img.shields.io/github/last-commit/etiennecollin/wave">
-  <img src="https://img.shields.io/github/v/release/etiennecollin/wave?include_prereleases&color=success">
-  <img src="https://img.shields.io/static/v1?label=license&message=GPL-3.0&color=success">
+    <a href="https://github.com/etiennecollin/wave/commits"/>
+        <img src="https://img.shields.io/github/last-commit/etiennecollin/wave">
+    </a>
+    <a href="https://github.com/etiennecollin/wave/releases/latest">
+        <img src="https://img.shields.io/github/v/release/etiennecollin/wave?include_prereleases&color=success">
+    </a>
+    <a href="https://github.com/etiennecollin/wave/blob/main/LICENSE">
+        <img src="https://img.shields.io/static/v1?label=license&message=GPL-3.0&color=success">
+    </a>
 </span>
 
 ---
