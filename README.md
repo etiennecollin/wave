@@ -80,7 +80,7 @@ Here are the **optional** components to build the Wave:
 
 ### Keyboard
 
-![](resources/images/wave_pcb_rounded.png)
+![](resources/images/wave_pcb_rounded.svg)
 
 To order the keyboard PCB, the following settings are recommended[^1]:
 
@@ -109,7 +109,7 @@ You will need to order two different PCBs; the switch plate one and the back pla
 
 #### Switch Plates
 
-![](resources/images/switch_plate_pcb.png)
+![](resources/images/switch_plate_pcb.svg)
 
 To order the switch plate PCB, the following settings are recommended[^1]:
 
@@ -134,7 +134,7 @@ To order the switch plate PCB, the following settings are recommended[^1]:
 
 #### Back Plates
 
-![](resources/images/back_plate_pcb.png)
+![](resources/images/back_plate_pcb.svg)
 
 To order the back plate PCB, the following settings are recommended[^1]:
 
