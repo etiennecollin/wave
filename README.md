@@ -41,7 +41,7 @@ The Wave is a small, reversible keyboard inspired by the [Ferris](https://github
 -   Diode-less build
 -   Reversible PCB
 -   USB-C
--   Mini DIN 4 (S-Video) connector
+-   Mini DIN 4 (S-Video) connector used to connect both halfs
     -   The issue with TRRS connectors is that [they are not hot swap](https://docs.qmk.fm/#/feature_split_keyboard?id=considerations); disconnecting the cable while the keyboard is powered via usb risks damaging/breaking the controller by shorting the VCC pin to a GND or data pin.
     -   The Mini DIN 4 connector solves this issue and is readily available on the market, being the cable used for S-Video.
 -   Switch plate and back plate available
