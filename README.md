@@ -64,7 +64,7 @@ Here are the **optional** components to build the Wave:
 
 -   Hot swap sockets, either:
     -   36x Kailh hot swap sockets for Choc switches
-    -   72x Mill-Max hot swap sockets (preferably 3305 or 7305 sockets as they have a thinner profile)
+    -   72x Mill-Max hot swap sockets (preferably [3305](https://www.digikey.ca/en/products/detail/mill-max-manufacturing-corp/3305-1-15-15-47-27-10-0/13901953) or [7305](https://www.digikey.ca/en/products/detail/mill-max-manufacturing-corp/7305-0-15-15-47-27-10-0/1765737) sockets as they have a thinner profile)
 -   2x reset switches ([B3U-1000P-B](https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/B3U-1000P-B/1811777))
     -   The B3U-1000PM, B3U-1000P-B and B3U-1000PM-B variants will work as they have the same footprint.
 -   4x+ Rubber feet/bumpers ([RBS-12BK](https://www.digikey.ca/en/products/detail/essentra-components/RBS-12BK/3814603))
