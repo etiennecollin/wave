@@ -3,7 +3,7 @@
 <!-- > ![](resources/images/built_wave.png) <sub>Wave v0.0.1 + MBK Blank Keycaps</sub> -->
 
 <span>
-    <a href="https://github.com/etiennecollin/wave/commits"/>
+    <a href="https://github.com/etiennecollin/wave/commits">
         <img src="https://img.shields.io/github/last-commit/etiennecollin/wave">
     </a>
     <a href="https://github.com/etiennecollin/wave/releases/latest">
@@ -11,6 +11,9 @@
     </a>
     <a href="https://github.com/etiennecollin/wave/blob/main/LICENSE">
         <img src="https://img.shields.io/static/v1?label=license&message=GPL-3.0&color=success">
+    </a>
+    <a href="https://github.com/qmk/qmk_firmware/tree/master/keyboards/etiennecollin/wave">
+        <img src="https://img.shields.io/static/v1?label=firmware&message=QMK&color=orange">
     </a>
 </span>
 
@@ -26,7 +29,7 @@
     - [Plates kit](#plates-kit-1)
         - [Switch Plates](#switch-plates)
         - [Back Plates](#back-plates)
-- [Firmware](#firmware)
+- [QMK Firmware](#qmk-firmware)
 
 ## What Is It
 
@@ -80,7 +83,7 @@ Here are the **optional** components to build the Wave:
 
 ### Keyboard
 
-![](resources/images/wave_pcb_rounded.svg)
+![Wave PCB Image](resources/images/wave_pcb_rounded.svg)
 
 To order the keyboard PCB, the following settings are recommended[^1]:
 
@@ -109,7 +112,7 @@ You will need to order two different PCBs; the switch plate one and the back pla
 
 #### Switch Plates
 
-![](resources/images/switch_plate_pcb.svg)
+![Wave Switch Plate Image](resources/images/switch_plate_pcb.svg)
 
 To order the switch plate PCB, the following settings are recommended[^1]:
 
@@ -134,7 +137,7 @@ To order the switch plate PCB, the following settings are recommended[^1]:
 
 #### Back Plates
 
-![](resources/images/back_plate_pcb.svg)
+![Wave Back Plate Image](resources/images/back_plate_pcb.svg)
 
 To order the back plate PCB, the following settings are recommended[^1]:
 
@@ -157,11 +160,13 @@ To order the back plate PCB, the following settings are recommended[^1]:
 | Gold Fingers            | No                          |
 | Castellated holes       | No                          |
 
-## Firmware
+## QMK Firmware
 
-The firmware is in the process of being added to the [QMK](https://github.com/qmk/qmk_firmware/tree/master) repo. This section will be updated once it is available.
+The [latest firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/etiennecollin/wave) can be found on the official [QMK](https://github.com/qmk/qmk_firmware/tree/master) repository.
 
-<!-- The firmware can be found [as part of QMK](https://github.com/qmk/qmk_firmware/tree/master/keyboards/etiennecollin/wave). -->
+<a href="(https://github.com/qmk/qmk_firmware/tree/master/keyboards/etiennecollin/wave">
+    <img width=33% src="resources/icons/qmk_badge_dark.png">
+</a>
 
 [^1]: Settings are for [JLCPCB](https://jlcpcb.com/), but should be similar with other manufacturers.
 [^2]: ROHS or lead-free options should be preferred (LeadFree HASL).
