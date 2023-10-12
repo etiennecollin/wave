@@ -33,13 +33,14 @@
 
 ## What Is It
 
-The Wave is a small, reversible keyboard inspired by the [Ferris](https://github.com/pierrechevalier83/ferris), the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep), the [Swoop](https://github.com/jimmerricks/swoop) and the [Sweep36](https://github.com/sadekbaroudi/sweep36). It aims to solve a few issues I found with the keyboards (see [Features](#features)).
+The Wave is a small, minimalist, reversible keyboard inspired by the [Ferris](https://github.com/pierrechevalier83/ferris), the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep), the [Swoop](https://github.com/jimmerricks/swoop), the [Sweep36](https://github.com/sadekbaroudi/sweep36), the [Piantor](https://github.com/beekeeb/piantor) and the [Chocofi](https://github.com/pashutk/chocofi) (thank you to the amazing creators of these keyboards). It aims to put together everything I like about these other models and to solve a few issues I found with them.
 
 ## Features
 
 -   Choc V1 switches
     -   The switches can be soldered, or hot swapped using either Mill-Max or Kailh hot swap sockets
 -   Choc spacing (supports MBK keycaps)
+-   The same column stagger you loved on the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep)
 -   1.5u thumb key support
 -   Diode-less build
 -   Reversible PCB
@@ -48,6 +49,7 @@ The Wave is a small, reversible keyboard inspired by the [Ferris](https://github
     -   The issue with TRRS connectors is that [they are not hot swap](https://docs.qmk.fm/#/feature_split_keyboard?id=considerations); disconnecting the cable while the keyboard is powered via usb risks damaging/breaking the controller by shorting the VCC pin to a GND or data pin.
     -   The Mini DIN 4 connector solves this issue and is readily available on the market, being the cable used for S-Video.
 -   Switch plate and back plate available
+-   No LEDs
 
 ## Components List
 
