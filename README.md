@@ -55,7 +55,7 @@ The Wave is a small, reversible keyboard inspired by the [Ferris](https://github
 
 Here are the **required** components to build the Wave:
 
--   2x Keyboard PCBs (PCB manufacturers usually sell them in packs of minimum 5)
+-   2x Keyboard PCBs (PCB manufacturers usually sell them in multiples of 5)
 -   2x Elite-C V4 controllers
 -   36x Choc V1 switches
 -   36x MBK compatible keycaps
@@ -70,14 +70,16 @@ Here are the **optional** components to build the Wave:
     -   72x Mill-Max hot swap sockets (preferably [3305](https://www.digikey.ca/en/products/detail/mill-max-manufacturing-corp/3305-1-15-15-47-27-10-0/13901953) or [7305](https://www.digikey.ca/en/products/detail/mill-max-manufacturing-corp/7305-0-15-15-47-27-10-0/1765737) sockets as they have a thinner profile)
 -   2x reset switches ([B3U-1000P-B](https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/B3U-1000P-B/1811777))
     -   The B3U-1000PM, B3U-1000P-B and B3U-1000PM-B variants will work as they have the same footprint.
--   4x+ Rubber feet/bumpers ([RBS-12BK](https://www.digikey.ca/en/products/detail/essentra-components/RBS-12BK/3814603))
+-   10x Rubber feet/bumpers (I like these [RBS-12BK](https://www.digikey.ca/en/products/detail/essentra-components/RBS-12BK/3814603))
 
 ### Plates Kit
 
--   2x Switch plate PCBs
--   2x Back plate PCBs
--   5x M2 7mm spacer ([970060244](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/970060244/9488532))
--   10x M2 3mm screws
+-   2x Switch plate PCBs (PCB manufacturers usually sell them in multiples of 5)
+    -   The switch plates may be used without back plates.
+-   2x Back plate PCBs (PCB manufacturers usually sell them in multiples of 5)
+    -   The back plates **require** switch plates to screw into.
+-   5x M2 6mm spacer ([970060244](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/970060244/9488532))
+-   10x M2 3mm screws ([I like these torx screws](https://www.ebay.ca/itm/154354213469?var=454428568064))
 
 ## Ordering the PCBs
 
