@@ -1,6 +1,6 @@
 # Wave <!-- omit from toc -->
 
-<!-- > ![](resources/images/built_wave.png) <sub>Wave v0.0.1 + MBK Blank Keycaps</sub> -->
+![Wave v0.0.1 + MBK Blank Keycaps Image](/resources/images/built_wave_1.jpeg) <sub>Wave v0.0.1 + MBK Blank Keycaps</sub>
 
 <span>
     <a href="https://github.com/etiennecollin/wave/commits">
@@ -83,7 +83,9 @@ Here are the **optional** components to build the Wave:
 
 ### Keyboard
 
-![Wave PCB Image](resources/images/wave_pcb_rounded.svg)
+![Wave PCB Image](/resources/images/wave_pcb_rounded.svg)
+
+<sub>Wave PCB</sub>
 
 To order the keyboard PCB, the following settings are recommended[^1]:
 
@@ -112,7 +114,11 @@ You will need to order two different PCBs; the switch plate one and the back pla
 
 #### Switch Plates
 
-![Wave Switch Plate Image](resources/images/switch_plate_pcb.svg)
+![Wave Switch Plate PCB Image](/resources/images/switch_plate_pcb.svg)
+
+<sub>Wave Switch Plate PCB</sub>
+
+![Wave v0.0.1 Switch Plate Image](/resources/images/built_wave_2.jpeg) <sub>Wave v0.0.1 Switch Plate</sub>
 
 To order the switch plate PCB, the following settings are recommended[^1]:
 
@@ -137,7 +143,11 @@ To order the switch plate PCB, the following settings are recommended[^1]:
 
 #### Back Plates
 
-![Wave Back Plate Image](resources/images/back_plate_pcb.svg)
+![Wave Back Plate PCB Image](/resources/images/back_plate_pcb.svg)
+
+<sub>Wave Back Plate PCB</sub>
+
+![Wave v0.0.1 Back Plate Image](/resources/images/built_wave_3.jpeg) <sub>Wave v0.0.1 Back Plate</sub>
 
 To order the back plate PCB, the following settings are recommended[^1]:
 
